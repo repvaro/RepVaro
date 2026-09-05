@@ -64,7 +64,6 @@ a blank dashboard.
 - 📸 Instagram: [@rep.varo](https://instagram.com/rep.varo)
 - ▶️ YouTube: [@repvaro](https://youtube.com/@repvaro)
 - 📘 Facebook: [repvaro](https://facebook.com/repvaro)
-- 💼 LinkedIn: [RepVaro](https://linkedin.com/company/repvaro)
 
 ---
 © 2026 RepVaro. All rights reserved.
